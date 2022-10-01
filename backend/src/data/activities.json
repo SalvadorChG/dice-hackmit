@@ -1,59 +1,124 @@
 {
     "activities": [
-        { 
-            "id": 123123,
-            "name": "Activity name",
-            "photo": "http://example.com",
-            "location":  "string",
-            "location_link": "string",
-            "category": "Fun",
-            "description": "Sample string",
-            "rating": 6,
-            "sustainable": true
-        },
-        { 
-            "id": 123123,
-            "name": "Activity name",
-            "photo": "http://example.com",
-            "location":  "string",
-            "location_link": "string",
-            "category": "Fun",
-            "description": "Sample string",
-            "rating": 6,
-            "sustainable": true
-        },
-        { 
-            "id": 123123,
-            "name": "Activity name",
-            "photo": "http://example.com",
-            "location":  "string",
-            "location_link": "string",
-            "category": "Fun",
-            "description": "Sample string",
-            "rating": 6,
-            "sustainable": true
-        },
-        { 
-            "id": 123123,
-            "name": "Activity name",
-            "photo": "http://example.com",
-            "location":  "string",
-            "location_link": "string",
-            "category": "Fun",
-            "description": "Sample string",
-            "rating": 6,
-            "sustainable": true
-        },
-        { 
-            "id": 123123,
-            "name": "Activity name",
-            "photo": "http://example.com",
-            "location":  "string",
-            "location_link": "string",
-            "category": "Fun",
-            "description": "Sample string",
-            "rating": 6,
-            "sustainable": true
-        }
-    ]
+	{
+		"id": 1,
+		"name": "Soy Bean Chan Flower Shop",
+		"photo": "https://ediblequeens.ediblecommunities.com/sites/default/files/images/article/soybean-pudding-soy-bean-chen-flower-shop-flushing-queens-new-york-7.jpg",
+		"address": "135-26 Roosevelt Ave, Flushing, NY 11354",
+		"map_link": "https://www.google.com/maps/place/Soy+Bean+Chan+Flower+%26+Gift+Shop/@40.7591497,-73.8332677,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2600e172c8efb:0xfe0b7acf14710008!8m2!3d40.7591297!4d-73.8310775",
+		"category": "dining",
+		"description": null,
+		"rating": 4.3,
+		"sustainability": false,
+		"family-owned": true
+	},
+	{
+		"id": 2,
+		"name": "Sylvia's Restaurant",
+		"photo": "https://live.staticflickr.com/7326/27857186140_f4e63f077e_b.jpg",
+		"address": "328 Malcolm X Blvd, New York, NY 10027",
+		"map_link": "https://www.google.com/maps/place/Sylvia's/@40.8086445,-73.946673,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f60cd3f0c56f:0x42be8b74f8751a5e!8m2!3d40.8086445!4d-73.944479",
+		"category": "dining",
+		"description": null,
+		"rating": 4.3,
+		"sustainability": false,
+		"family-owned": true
+	},
+	{
+		"id": 3,
+		"name": "Patsy's Restaurant",
+		"photo": "https://1.bp.blogspot.com/-YmBRmzbmEBE/YDpoL3v31rI/AAAAAAAAP3M/l0Fz9x7GH7YUAcdHCgKq-rF-vP4XQ4F5QCLcBGAsYHQ/s1200/Patsys72dpi1200.jpg",
+		"address": "236 W 56th St, New York, NY 10019",
+		"map_link": "https://www.google.com/maps/place/Patsy's/@40.7656391,-73.9849348,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258f7fcad6cdb:0xa98fe24a9c1cfe15!8m2!3d40.7656703!4d-73.9827179",
+		"category": "dining",
+		"description": null,
+		"rating": 4.3,
+		"sustainability": false,
+		"family-owned": true
+	},
+	{
+		"id": 4,
+		"name": "Chinatown Icecream Factory",
+		"photo": "https://static01.nyt.com/images/2015/07/05/nyregion/20150705JOINTss-slide-U75W/20150705JOINTss-slide-U75W-superJumbo.jpg",
+		"address": "65 Bayard St, New York, NY 10013",
+		"map_link": "google.com/maps/place/The+Original+Chinatown+Ice+Cream+Factory/@40.7154372,-74.0026332,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a270265a05f:0x59f168806f09ee27!8m2!3d40.7154373!4d-73.9981539",
+		"category": "dining",
+		"description": null,
+		"rating": 4.5,
+		"sustainability": false,
+		"family-owned": true
+	},
+	{
+		"id": 5,
+		"name": "Katz's Delicatessen ",
+		"photo": "https://accidentallywesanderson.com/wp-content/uploads/2021/04/DSC_2790-scaled.jpg",
+		"address": "205 E Houston St, New York, NY 10002",
+		"map_link": "https://www.google.com/maps/place/Katz's+Delicatessen/@40.7222329,-73.9919083,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598f7ff4aa09:0x313547e757cb8cea!8m2!3d40.7222472!4d-73.9874092",
+		"category": "dining",
+		"description": null,
+		"rating": 4.5,
+		"sustainability": false,
+		"family-owned": true
+	},
+	{
+		"id": 6,
+		"name": "Beacon's Closet",
+		"photo": "https://cdn.apartmenttherapy.info/image/upload/v1558879688/at/archive/087959967db59ba4b3359331c15821ce217da78e.jpg",
+		"address": "10 W 13th St, New York, NY 10011",
+		"map_link": "https://www.google.com/maps/place/Beacon's+Closet/@40.7355191,-73.9972855,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259978bd99f2d:0xe63f4341abf1d7ce!8m2!3d40.7355611!4d-73.995066?hl=en",
+		"category": "shopping",
+		"description": null,
+		"rating": 3.9,
+		"sustainability": true,
+		"family-owned": false
+	},
+	{
+		"id": 7,
+		"name": "Buffalo Xchange",
+		"photo": "https://buffaloexchange.com/wp-content/uploads/2022/05/NY6_Noho_2020-2.jpg",
+		"address": "714 Broadway, New York, NY 10003",
+		"map_link": "https://www.google.com/maps/place/Buffalo+Exchange/@40.7289338,-73.9981214,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2594b72742029:0xff164c7523f2d054!8m2!3d40.7289298!4d-73.9936421?hl=en",
+		"category": "shopping",
+		"description": null,
+		"rating": 3.5,
+		"sustainability": true,
+		"family-owned": false
+	},
+	{
+		"id": 8,
+		"name": "Housing Works",
+		"photo": "https://s3.amazonaws.com/housingworks-site/images/heros/chelsea.jpg?mtime=20210208121830",
+		"address": "143 W 17th St, New York, NY 10011",
+		"map_link": "https://www.google.com/maps/place/Housing+Works+Thrift+Shops+-+Chelsea/@40.7401563,-73.9993623,17z/data=!4m14!1m8!3m7!1s0x89c259bcfb86f20b:0x9b52caa35761a2db!2sHousing+Works+Thrift+Shops+-+Chelsea!8m2!3d40.7401563!4d-73.9971736!14m1!1BCgIgAQ!3m4!1s0x89c259bcfb86f20b:0x9b52caa35761a2db!8m2!3d40.7401563!4d-73.9971736?hl=en",
+		"category": "shopping",
+		"description": null,
+		"rating": 4.3,
+		"sustainability": true,
+		"family-owned": false
+	},
+	{
+		"id": 9,
+		"name": "Olde Good Things Antique Store",
+		"photo": "https://ogtstore.com/wp-content/uploads/2016/12/olde-good-things-broadway-2020.jpg",
+		"address": "2420 Broadway, New York, NY 10024",
+		"map_link": "https://www.google.com/maps/place/Olde+Good+Things+Antique+Store/@40.790573,-73.9788963,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25883af4a95c1:0x7bb3b61a5fb10731!8m2!3d40.790569!4d-73.974417?hl=en",
+		"category": "shopping",
+		"description": null,
+		"rating": 4.4,
+		"sustainability": true,
+		"family-owned": null
+	},
+	{
+		"id": 10,
+		"name": "No Relation Vintage (L Train Vintage)",
+		"photo": null,
+		"address": null,
+		"map_link": null,
+		"category": null,
+		"description": null,
+		"rating": null,
+		"sustainability": null,
+		"family-owned": null
+	}
+]
 }
