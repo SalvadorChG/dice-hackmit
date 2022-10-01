@@ -7,10 +7,11 @@
 		"address": "135-26 Roosevelt Ave, Flushing, NY 11354",
 		"map_link": "https://www.google.com/maps/place/Soy+Bean+Chan+Flower+%26+Gift+Shop/@40.7591497,-73.8332677,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2600e172c8efb:0xfe0b7acf14710008!8m2!3d40.7591297!4d-73.8310775",
 		"category": "dining",
-		"description": null,
+		"description": "Family owned florist selling fresh flowers & plants, plus custard-style tofu & other Chinese snacks.",
 		"rating": 4.3,
 		"sustainability": false,
-		"family-owned": true
+		"family-owned": true,
+		"lifestyle": false
 	},
 	{
 		"id": 2,
@@ -19,10 +20,11 @@
 		"address": "328 Malcolm X Blvd, New York, NY 10027",
 		"map_link": "https://www.google.com/maps/place/Sylvia's/@40.8086445,-73.946673,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f60cd3f0c56f:0x42be8b74f8751a5e!8m2!3d40.8086445!4d-73.944479",
 		"category": "dining",
-		"description": null,
+		"description": "Harlem landmark serving generous helpings of Southern comfort food since 1962.",
 		"rating": 4.3,
 		"sustainability": false,
-		"family-owned": true
+		"family-owned": true,
+		"lifestyle": false
 	},
 	{
 		"id": 3,
@@ -31,10 +33,11 @@
 		"address": "236 W 56th St, New York, NY 10019",
 		"map_link": "https://www.google.com/maps/place/Patsy's/@40.7656391,-73.9849348,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258f7fcad6cdb:0xa98fe24a9c1cfe15!8m2!3d40.7656703!4d-73.9827179",
 		"category": "dining",
-		"description": null,
+		"description": "Vintage Neapolitan eatery near Carnegie Hall with a history of entertaining high-profile patrons.",
 		"rating": 4.3,
 		"sustainability": false,
-		"family-owned": true
+		"family-owned": true,
+		"lifestyle": false
 	},
 	{
 		"id": 4,
@@ -43,10 +46,11 @@
 		"address": "65 Bayard St, New York, NY 10013",
 		"map_link": "google.com/maps/place/The+Original+Chinatown+Ice+Cream+Factory/@40.7154372,-74.0026332,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25a270265a05f:0x59f168806f09ee27!8m2!3d40.7154373!4d-73.9981539",
 		"category": "dining",
-		"description": null,
+		"description": "The flavors range from familiar to exotic at this compact ice-cream shop.",
 		"rating": 4.5,
 		"sustainability": false,
-		"family-owned": true
+		"family-owned": true,
+		"lifestyle": false
 	},
 	{
 		"id": 5,
@@ -55,10 +59,11 @@
 		"address": "205 E Houston St, New York, NY 10002",
 		"map_link": "https://www.google.com/maps/place/Katz's+Delicatessen/@40.7222329,-73.9919083,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598f7ff4aa09:0x313547e757cb8cea!8m2!3d40.7222472!4d-73.9874092",
 		"category": "dining",
-		"description": null,
+		"description": "No-frills deli with theatrically cranky service serving mile-high sandwiches since 1888.",
 		"rating": 4.5,
 		"sustainability": false,
-		"family-owned": true
+		"family-owned": true,
+		"lifestyle": false
 	},
 	{
 		"id": 6,
@@ -67,22 +72,24 @@
 		"address": "10 W 13th St, New York, NY 10011",
 		"map_link": "https://www.google.com/maps/place/Beacon's+Closet/@40.7355191,-73.9972855,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259978bd99f2d:0xe63f4341abf1d7ce!8m2!3d40.7355611!4d-73.995066?hl=en",
 		"category": "shopping",
-		"description": null,
+		"description": "Trendy resale outfit for vintage & modern clothing & accessories from mass brands to top designers.",
 		"rating": 3.9,
 		"sustainability": true,
-		"family-owned": false
+		"family-owned": false,
+		"lifestyle": false
 	},
 	{
 		"id": 7,
-		"name": "Buffalo Xchange",
+		"name": "Buffalo Exchange",
 		"photo": "https://buffaloexchange.com/wp-content/uploads/2022/05/NY6_Noho_2020-2.jpg",
 		"address": "714 Broadway, New York, NY 10003",
 		"map_link": "https://www.google.com/maps/place/Buffalo+Exchange/@40.7289338,-73.9981214,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2594b72742029:0xff164c7523f2d054!8m2!3d40.7289298!4d-73.9936421?hl=en",
 		"category": "shopping",
-		"description": null,
+		"description": "Hip chain that buys, sells, trades trendy vintage & used clothing plus accessories for men & women.",
 		"rating": 3.5,
 		"sustainability": true,
-		"family-owned": false
+		"family-owned": false,
+		"lifestyle": false
 	},
 	{
 		"id": 8,
@@ -94,7 +101,8 @@
 		"description": null,
 		"rating": 4.3,
 		"sustainability": true,
-		"family-owned": false
+		"family-owned": false,
+		"lifestyle": false
 	},
 	{
 		"id": 9,
@@ -103,22 +111,128 @@
 		"address": "2420 Broadway, New York, NY 10024",
 		"map_link": "https://www.google.com/maps/place/Olde+Good+Things+Antique+Store/@40.790573,-73.9788963,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25883af4a95c1:0x7bb3b61a5fb10731!8m2!3d40.790569!4d-73.974417?hl=en",
 		"category": "shopping",
-		"description": null,
+		"description": "Hip chain that buys, sells, trades trendy vintage & used clothing plus accessories for men & women.",
 		"rating": 4.4,
 		"sustainability": true,
-		"family-owned": null
+		"family-owned": false,
+		"lifestyle": false
 	},
 	{
 		"id": 10,
 		"name": "No Relation Vintage (L Train Vintage)",
-		"photo": null,
-		"address": null,
-		"map_link": null,
-		"category": null,
+		"photo": "https://yourbrooklynguide.com/wp-content/uploads/2020/02/L-Train-Vintage-in-Gowanus-Brooklyn.jpg",
+		"address": "654 Sackett St, Brooklyn, NY 11217",
+		"map_link": "https://www.google.com/maps/place/L+Train+Vintage/@40.6781178,-73.9855023,17z/data=!4m13!1m7!3m6!1s0x89c25a552c30e011:0x31a3199808f1d190!2s654+Sackett+St,+Brooklyn,+NY+11217!3b1!8m2!3d40.6780756!4d-73.9833014!3m4!1s0x89c25a552dcca547:0xea9e34ae4d8ce120!8m2!3d40.6782032!4d-73.9832566?hl=en",
+		"category": "shopping",
 		"description": null,
-		"rating": null,
-		"sustainability": null,
-		"family-owned": null
+		"rating": 4.3,
+		"sustainability": true,
+		"family-owned": false,
+		"lifestyle": false
+	},
+	{
+		"id": 11,
+		"name": "Bouldering in Central Park",
+		"photo": "https://www.centralpark.com/downloads/8589/download/bouldering.jpg?cb=392cdaffc38754dbde08d9e3cb823ac6&w=2048",
+		"address": "Central Park S, New York, NY 10023",
+		"map_link": "https://www.google.com/maps/place/Umpire+Rock/@40.7691282,-73.9822501,17z/data=!3m1!4b1!4m5!3m4!1s0x89c258f6a9ca2ba1:0x4372d987987f83b4!8m2!3d40.7691242!4d-73.9777708",
+		"category": "outdoors",
+		"description": null,
+		"rating": 4.6,
+		"sustainability": false,
+		"family-owned": false,
+		"lifestyle": true
+	},
+	{
+		"id": 12,
+		"name": "Cycling the Hudson River Greenway",
+		"photo": "https://hudsongreenway.ny.gov/sites/g/files/oee931/files/media/2020/07/family-on-bikes-harlem-valley-rt_1.jpg",
+		"address": "New York State Reference Rte 907V, New York, NY 10024",
+		"map_link": "https://www.google.com/maps/place/Hudson+River+Waterfront+Greenway/@40.7893558,-73.9848592,17z/data=!4m5!3m4!1s0x89c258875c84127b:0x24bfa4d6aae44f!8m2!3d40.7886373!4d-73.9824241",
+		"category": "outdoors",
+		"description": "Waterfront park with running & cycling paths, popular for watching the sun set over the Hudson.",
+		"rating": 4.8,
+		"sustainability": false,
+		"family-owned": false,
+		"lifestyle": true
+	},
+	{
+		"id": 13,
+		"name": "Walk the Highline",
+		"photo": "https://assets3.thrillist.com/v1/image/2732279/1584x1056/crop;webp=auto;jpeg_quality=60;progressive.jpg",
+		"address": "New York, NY 10011",
+		"map_link": "https://www.google.com/maps/place/The+High+Line/@40.7479965,-74.0092442,17z/data=!3m1!4b1!4m5!3m4!1s0x89c259c7840fb4e5:0x583f615c850a3c91!8m2!3d40.7479925!4d-74.0047649",
+		"category": "outdoors",
+		"description": "Popular park 30 feet above street level on an old rail line, with river & city views.",
+		"rating": 4.7,
+		"sustainability": false,
+		"family-owned": false,
+		"lifestyle": true
+	},
+	{
+		"id": 14,
+		"name": "Brooklyn Botanical Garden",
+		"photo": "https://media.timeout.com/images/105709233/image.jpg",
+		"address": "990 Washington Ave, Brooklyn, NY 11225",
+		"map_link": "https://www.google.com/maps/place/Brooklyn+Botanic+Garden/@40.6721016,-73.9671036,17z/data=!3m1!4b1!4m5!3m4!1s0x89c25b0e68bf8bc1:0x57422fe45b635cda!8m2!3d40.6720976!4d-73.9649096",
+		"category": "outdoors",
+		"description": "A kid-friendly annual Cherry Blossom Festival, a Japanese garden & more, spread across 52 acres.",
+		"rating": 4.6,
+		"sustainability": true,
+		"family-owned": false,
+		"lifestyle": false
+	},
+	{
+		"id": 15,
+		"name": "Bronx Zoo",
+		"photo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Bronx_Zoo_001.jpg",
+		"address": "2300 Southern Blvd, The Bronx, NY 10460",
+		"map_link": "https://www.google.com/maps/place/Bronx+Zoo/@40.8505989,-73.8791922,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2f483516ad28b:0x56eb41c9795102e!8m2!3d40.8505949!4d-73.8769982",
+		"category": "outdoors",
+		"description": "Metropolitan zoo with 265 acres that harbors 4,000 animals in replicas of their native habitats.",
+		"rating": 4.6,
+		"sustainability": true,
+		"family-owned": false,
+		"lifestyle": false
+	},
+	{
+		"id": 16,
+		"name": "Central park conservancy ",
+		"photo": "https://th-thumbnailer.cdn-si-edu.com/fE_cGb5pd8gEc5ylHLpnFSo8dsk=/fit-in/1600x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/8c/08/8c087dbd-dfd0-446e-8f30-c964de6e87c9/central-park.jpg",
+		"address": "14 E 60th St, New York, NY 10022",
+		"map_link": "https://www.google.com/maps/place/Central+Park+Conservancy/@40.764395,-73.9760844,17z/data=!3m2!4b1!5s0x8907af22e1b52c97:0xf96fb7d977ea26ed!4m5!3m4!1s0x89c2589a07c05e9b:0xa000b80b4bb4e0cf!8m2!3d40.764391!4d-73.9716051",
+		"category": "community",
+		"description": null,
+		"rating": 4.5,
+		"sustainability": true,
+		"family-owned": false,
+		"lifestyle": false
+	},
+	{
+		"id": 17,
+		"name": "God's love we deliver",
+		"photo": "https://assets.vogue.com/photos/5891e7ad0e6cdc8a1928caec/master/w_3264,h_2448,c_limit/06-Michael-Kors-Gods-Love-We-Deliver.jpg",
+		"address": "166 6th Ave, New York, NY 10013",
+		"map_link": "https://www.google.com/maps/place/God's+Love+We+Deliver/@40.7255642,-74.0059409,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2598cf99f3931:0xee9acaddc2cf7f5d!8m2!3d40.72558!4d-74.0038023",
+		"category": "community",
+		"description": "Cook and deliver nutritious, medically tailored meals for people too sick to shop or cook for themselves",
+		"rating": 4.7,
+		"sustainability": true,
+		"family-owned": false,
+		"lifestyle": false
+	},
+	{
+		"id": 18,
+		"name": "BARC",
+		"photo": "https://www.thimble.com/wp-content/uploads/2021/04/blog-how-much-do-dog-walkers-make.jpg",
+		"address": "86 N 1st St, Brooklyn, NY 11249",
+		"map_link": "https://www.google.com/maps/place/BARC+Shelter/@40.716006,-73.9681903,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2596114a0ae5f:0xb45417818d492155!8m2!3d40.716002!4d-73.963711",
+		"category": "community",
+		"description": "Walk dogs for a non--profit, no-kill, privately run animal shelter located in Williamsburg, Brooklyn",
+		"rating": 4.9,
+		"sustainability": false,
+		"family-owned": false,
+		"lifestyle": true
 	}
 ]
 }
