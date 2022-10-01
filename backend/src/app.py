@@ -7,7 +7,6 @@ app = Flask(__name__)
 
 @app.route("/user/<id>")
 def userData(id):
-
     id = str(id).strip()
     return jsonify({
         "username": "john.doe",

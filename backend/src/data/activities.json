@@ -1,0 +1,59 @@
+{
+    "activities": [
+        { 
+            "id": 123123,
+            "name": "Activity name",
+            "photo": "http://example.com",
+            "location":  "string",
+            "location_link": "string",
+            "category": "Fun",
+            "description": "Sample string",
+            "rating": 6,
+            "sustainable": true
+        },
+        { 
+            "id": 123123,
+            "name": "Activity name",
+            "photo": "http://example.com",
+            "location":  "string",
+            "location_link": "string",
+            "category": "Fun",
+            "description": "Sample string",
+            "rating": 6,
+            "sustainable": true
+        },
+        { 
+            "id": 123123,
+            "name": "Activity name",
+            "photo": "http://example.com",
+            "location":  "string",
+            "location_link": "string",
+            "category": "Fun",
+            "description": "Sample string",
+            "rating": 6,
+            "sustainable": true
+        },
+        { 
+            "id": 123123,
+            "name": "Activity name",
+            "photo": "http://example.com",
+            "location":  "string",
+            "location_link": "string",
+            "category": "Fun",
+            "description": "Sample string",
+            "rating": 6,
+            "sustainable": true
+        },
+        { 
+            "id": 123123,
+            "name": "Activity name",
+            "photo": "http://example.com",
+            "location":  "string",
+            "location_link": "string",
+            "category": "Fun",
+            "description": "Sample string",
+            "rating": 6,
+            "sustainable": true
+        }
+    ]
+}

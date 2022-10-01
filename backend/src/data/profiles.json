@@ -1,0 +1,39 @@
+{
+    "profiles": [
+        {
+            "username": "john.doe",
+            "name": "John Doe",
+            "pfp": "http://example.com",
+            "activity_log": [],
+            "wish_list": []
+        },
+        {
+            "username": "john.doe",
+            "name": "John Doe",
+            "pfp": "http://example.com",
+            "activity_log": [],
+            "wish_list": []
+        },
+        {
+            "username": "john.doe",
+            "name": "John Doe",
+            "pfp": "http://example.com",
+            "activity_log": [],
+            "wish_list": []
+        },
+        {
+            "username": "john.doe",
+            "name": "John Doe",
+            "pfp": "http://example.com",
+            "activity_log": [],
+            "wish_list": []
+        },
+        {
+            "username": "john.doe",
+            "name": "John Doe",
+            "pfp": "http://example.com",
+            "activity_log": [],
+            "wish_list": []
+        }
+    ]
+}
