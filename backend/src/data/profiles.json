@@ -1,57 +1,67 @@
 {
-    "profiles": [
-        {
-            "user_id": 1,
-            "username": "heyitssalvador",
-            "name": "Salvador Ch\u00e1vez Gonz\u00e1lez",
-            "pfp": null,
-            "activity_log": "[{ "date": "2/21/2022", "activity_id": 2 }]",
-            "wish_list": "[
-                { "date": "10/1/22", "activity_id": 3 },
-                { "date": "10/1/22", "activity_id": 4 },
-                { "date": "10/1/22", "activity_id": 5 },
-                { "date": "10/1/22", "activity_id": 6 },
-                { "date": "10/1/22", "activity_id": 7 },
-                { "date": "10/1/22", "activity_id": 8 }]"
-        },
-        {
-            "user_id": 2,
-            "username": "sebas.torrealba",
-            "name": "Sebasti\u00e1n Torrealba",
-            "pfp": null,
-            "activity_log": "[{ "date": "3/4/2022", "activity_id": 3 }, { "date": "4/12", "activity_id": 5 }]",
-            "wish_list": "[
-                { "date": "10/1/22", "activity_id": 4 },
-                { "date": "10/1/22", "activity_id": 7 },
-                { "date": "10/1/22", "activity_id": 8 },
-                { "date": "10/1/22", "activity_id": 9 }]"
-        },
-        {
-            "user_id": 3,
-            "username": "charlieinnyc",
-            "name": "Charlie Liu",
-            "pfp": null,
-            "activity_log": "[
-                { "date": "3/4/2022", "activity_id": 1 },
-                { "date": "4/12", "activity_id": 2 },
-                { "date": "5/1", "activity_id": 3 },
-                { "date": "6/21/22", "activity_id": 4 },
-                { "date": "8/12/22", "activity_id": 5 },
-                { "date": "9/1/22", "activity_id": 6 },
-                { "date": "9/2/22", "activity_id": 7 },
-                { "date": "9/3/22", "activity_id": 8 },
-                { "date": "9/4/22", "activity_id": 9 },
-                { "date": "9/22/22", "activity_id": 10 }]",
-            "wish_list": "[]"
-        },
-        {
-            "user_id": 4,
-            "username": "serencha",
-            "name": "Serena Chang",
-            "pfp": null,
-            "activity_log": "[{ "date": "9/1/22", "activity_id": 2 }, { "date": "9/2/22", "activity_id": 3 }, { "date": "9/3/22", "activity_id": 5 }, { "date": "9/4/22", "activity_id": 4 }]",
-            "wish_list": "[]"
-        }
-    ]
-
+	"profiles": [
+		{
+			"user_id": 1,
+			"username": "heyitssalvador",
+			"name": "Salvador Ch\u00e1vez Gonz\u00e1lez",
+			"pfp": null,
+			"activity_log": [{ "date": "2/21/2022", "activity_id": 2 }],
+			"wish_list": [
+				{ "date": "10/1/22", "activity_id": 3 },
+				{ "date": "10/1/22", "activity_id": 4 },
+				{ "date": "10/1/22", "activity_id": 5 },
+				{ "date": "10/1/22", "activity_id": 6 },
+				{ "date": "10/1/22", "activity_id": 7 },
+				{ "date": "10/1/22", "activity_id": 8 }
+			]
+		},
+		{
+			"user_id": 2,
+			"username": "sebas.torrealba",
+			"name": "Sebasti\u00e1n Torrealba",
+			"pfp": null,
+			"activity_log": [
+				{ "date": "3/4/2022", "activity_id": 3 },
+				{ "date": "4/12", "activity_id": 5 }
+			],
+			"wish_list": [
+				{ "date": "10/1/22", "activity_id": 4 },
+				{ "date": "10/1/22", "activity_id": 7 },
+				{ "date": "10/1/22", "activity_id": 8 },
+				{ "date": "10/1/22", "activity_id": 9 }
+			]
+		},
+		{
+			"user_id": 3,
+			"username": "charlieinnyc",
+			"name": "Charlie Liu",
+			"pfp": null,
+			"activity_log": [
+				{ "date": "3/4/2022", "activity_id": 1 },
+				{ "date": "4/12", "activity_id": 2 },
+				{ "date": "5/1", "activity_id": 3 },
+				{ "date": "6/21/22", "activity_id": 4 },
+				{ "date": "8/12/22", "activity_id": 5 },
+				{ "date": "9/1/22", "activity_id": 6 },
+				{ "date": "9/2/22", "activity_id": 7 },
+				{ "date": "9/3/22", "activity_id": 8 },
+				{ "date": "9/4/22", "activity_id": 9 },
+				{ "date": "9/22/22", "activity_id": 10 }
+			],
+			"wish_list": "[]"
+		},
+		{
+			"user_id": 4,
+			"username": "serencha",
+			"name": "Serena Chang",
+			"pfp": null,
+			"activity_log": [
+				{ "date": "9/1/22", "activity_id": 2 },
+				{ "date": "9/2/22", "activity_id": 3 },
+				{ "date": "9/3/22", "activity_id": 5 },
+				{ "date": "9/4/22", "activity_id": 4 }
+			],
+			"wish_list": "[]"
+		}
+	]
 }
