@@ -16,15 +16,13 @@ Resources used: We used the resources Flutter, Figma, and Notion.
 
 What We Learned: We learned about the importance of clear and effective communication in order to prevent miscommunication and wasted time, the challenging, yet valuable, experience of diving into unfamiliar software like Flutter.
 
-Why Our Solution Matters: Dice fulfills our desires to have fun and make memories while also contributing to the prosperity of our surroundings in return. Every activity we curate has an ulterior value in mind, from the cultural significance of family-owned restaurants to the environmental sustainability of second-hand shopping. Furthermore, Dice is our way of promoting outside interaction rather than staying trapped in the tech-bubble to entertain ourselves. Ultimately, we are an app that is pushing towards a happier, healthier world. 
-
-Links: 
+Why Our Solution Matters: Dice fulfills our desires to have fun and make memories while also contributing to the prosperity of our surroundings in return. Every activity we curate has an ulterior value in mind, from the cultural significance of family-owned restaurants to the environmental sustainability of second-hand shopping. Furthermore, Dice is our way of promoting outside interaction rather than staying trapped in the tech-bubble to entertain ourselves. Ultimately, we are an app that is pushing towards a happier, healthier world.  
 
 Figma: https://www.figma.com/file/UXPvncTKj0yoSA5FtVD3pq/dice-%3AD?node-id=0%3A1
 
-Notion: 
+Notion: https://www.notion.so/serenac/Dice-HackMIT-22-Panera-s-Hack-for-a-healthier-and-happier-world-735e15ed387d47eba8ddc332b723b772
 
-Presentation:
+Presentation: https://www.figma.com/file/m6Y1T2B3cTxpMQDDwnoeW3/Dice-Presentation?node-id=0%3A1
 
 Founders: 
 
