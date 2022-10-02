@@ -25,3 +25,13 @@ Figma: https://www.figma.com/file/UXPvncTKj0yoSA5FtVD3pq/dice-%3AD?node-id=0%3A1
 Notion: 
 
 Presentation:
+
+Founders: 
+
+Serena Chang - B.Sc. in Computer Software Engineering and Business Administration, senior year, Babson College, schang2@babson.edu
+
+Salvador Chavez - B.Sc. in Engineering Physics, sophomore year, Tecnológico de Monterrey, A01746369@tec.mx  
+
+Charlie Liu - B.A. in Computer Science and Mathematics, sophmore year, Columbia University, crl2157@columbia.edu 
+
+Sebastian Torrealba - B.Sc. in Computer Science Engineering, sophomore year, Universidad Técnica Federico Santa María, sebastian.torrealba@sansano.usm.cl 
