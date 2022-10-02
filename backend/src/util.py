@@ -21,14 +21,3 @@ def getAvailableActivities(all_activities, used_activities):
         return all_activities
 
     return response
-
-A = [1, 2, 3, 4]
-B = [1, 2]
-
-res = getAvailableActivities(A, B)
-rndm = getRandomActivity(res)
-B.append(rndm)
-print(rndm, B)
-
-if len(B) == len(A):
-    B = []

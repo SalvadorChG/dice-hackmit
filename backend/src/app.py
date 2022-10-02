@@ -115,28 +115,6 @@ def getActivities():
     community = getNotUsedFromCategory("community")
 
     return [dining, shopping, outdoors, community]
-"""
-list of categories:
-    - dining
-    - shopping
-    - outdoors
-    - community
-"""
-
-"""
-referencial json
-		"id": 1,
-		"name": "Soy Bean Chan Flower Shop",
-		"photo": "https://ediblequeens.ediblecommunities.com/sites/default/files/images/article/soybean-pudding-soy-bean-chen-flower-shop-flushing-queens-new-york-7.jpg",
-		"address": "135-26 Roosevelt Ave, Flushing, NY 11354",
-		"map_link": "https://www.google.com/maps/place/Soy+Bean+Chan+Flower+%26+Gift+Shop/@40.7591497,-73.8332677,17z/data=!3m1!4b1!4m5!3m4!1s0x89c2600e172c8efb:0xfe0b7acf14710008!8m2!3d40.7591297!4d-73.8310775",
-		"category": "dining",
-		"description": "Family owned florist selling fresh flowers & plants, plus custard-style tofu & other Chinese snacks.",
-		"rating": 4.3,
-		"sustainability": false,
-		"family-owned": true,
-		"lifestyle": false
-"""
 
 @app.route("/dicing")
 def userData():
@@ -147,11 +125,5 @@ def userData():
     return jsonify({
         "activities": god_list
     })
-
-"""    
-@app.route("/usedice")
-def popularActivities():
-    return jsonify(database.getAllActivities())
-"""
 
 app.run(port=3000)
