@@ -12,7 +12,7 @@ Mission: Dice fulfills your desires to have fun and make memories while also con
 
 General Utility: When opening the Dice app, you are first presented with the most popular activities and other suggested activities. To get an activity, you tap on the bold dice in the top right corner to either immediately generate an activity or “pick a side.” When you “pick a side,” you select a category and receive a filtered random activity. There are also other tabs where you have your own profile and where you can browse a photo feed to see your friend’s adventures.
 
-Resources used: We used the resources Flutter, Figma, and Notion. 
+Resources used: We used Python, Flutter, Figma, Notion, and VS Code. 
 
 What We Learned: We learned about the importance of clear and effective communication in order to prevent miscommunication and wasted time, the challenging, yet valuable, experience of diving into unfamiliar software like Flutter.
 
