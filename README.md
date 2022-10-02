@@ -1,4 +1,4 @@
-# dice-hackmit 22
+# Dice-hackmit 22
 HackMIT 2022 Project
 
 Dice is an app that encourages people to be adventurous and make meaningful memories by generating valuable activities that support local communities, small businesses, personal well-being, and comprehensive sustainability. With a bank of options curated from around your area, our platform promotes the betterment of you and your environment—all with the roll of a dice. 
